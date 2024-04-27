@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">WordGuess</string>
+
+    <!-- Welcome Text -->
+
+    <string name="welcome_text">Welcome</string>
+    <!-- 1 - question-->
+    <string name="question1">1.Tell me if you ……………………….. any help.</string>
+    <string name="question1_answer1">would need</string>
+    <string name="question1_answer2">will need</string>
+    <string name="question1_right_answer">need</string>
+
+    <!-- 2 - question-->
+
+    <string name="question2">2. The first time I ………………………… him was at university.</string>
+    <string name="question2_right_answer">met</string>
+    <string name="question2_answer1">have met</string>
+    <string name="question2_answer2">had met</string>
+
+    <!-- 3 -->
+
+    <string name="question3">3. This is the garage ……………………….. they used to work.</string>
+    <string name='question3_answer1'>that</string>
+    <string name='question3_right_answer'>where</string>
+    <string name='question3_answer2'>which</string>
+
+    <!-- 4 -->
+
+    <string name="question4">4. I ……………………………. a terrible experience yesterday.</string>
+    <string name='question4_answer1'>had had</string>
+    <string name='question4_right_answer'>had</string>
+    <string name='question4_answer2'>have</string>
+    <string name="question4_answer3">have had</string>
+
+    <!-- exper -->
+
+    <string-array name="my_string_array">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+    </string-array>
+
+
+</resources>
